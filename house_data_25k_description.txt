@@ -1,0 +1,41 @@
+id- notation for a house
+
+dateDate- house was sold
+
+pricePrice- is prediction target
+
+bedrooms- Number of Bedrooms/House
+
+bathrooms- Number of bathrooms/bedrooms
+
+sqft_livingsquare - footage of the home
+
+sqft_lotsquare -footage of the lot
+
+floorsTotal - floors (levels) in house
+
+waterfrontHouse - which has a view to a waterfront
+
+view - Has been viewed
+
+condition - How good the condition is ( Overall ). 1 indicates worn out property and 5 excellent.
+
+gradeoverall - grade given to the housing unit, based on King County grading system. 1 poor ,13 excellent.
+
+sqft_abovesquare - footage of house apart from basement
+
+sqft_basementsquare - footage of the basement
+
+yr_built - Built_Year
+
+yr_renovated - Year when house was renovated
+
+zipcode -zip
+
+lat- Latitude coordinate
+
+long - Longitude coordinate
+
+sqft_living15 - Living room area in 2015(implies-- some renovations) This might or might not have affected the lotsize area
+
+sqft_lot15 - lotSize area in 2015(implies-- some renovations)
